@@ -1,3 +1,4 @@
+![logo](https://github.com/Pooja-Madhuri-Naidu/Pooja-Madhuri-Naidu/blob/main/Adidas.pbix)
 <h1 align="center">Hi 👋, I'm Pooja Madhuri Naidu</h1>
 <h3 align="center">"Aspiring Data Scientist | Exploring AI, ML & Analytics"</h3>
 
